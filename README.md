@@ -1,4 +1,4 @@
-## Projet continué sur le dépôt [miel-uqac](https://github.com/miel-uqac/vka1)
+## Projet continué sur le dépôt [miel-uqac/vka1](https://github.com/miel-uqac/vka1)
 Ce dépôt ne sera plus mis à jour
 
 ## Cours 8INF865
