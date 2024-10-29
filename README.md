@@ -1,3 +1,6 @@
+## Projet continué sur le dépôt [miel-uqac](https://github.com/miel-uqac/vka1)
+Ce dépôt ne sera plus mis à jour
+
 ## Cours 8INF865
 Projet de Programmation de plateformes mobiles - Automne 2024 UQAC
 Alexis Godefroy
